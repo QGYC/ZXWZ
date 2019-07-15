@@ -1,2 +1,2 @@
-# QGYC
-最新网址
+# 奇光异彩最新网址
+https://qiguangyicai.com
