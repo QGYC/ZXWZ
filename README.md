@@ -1,10 +1,10 @@
 ## 可用域名列表：
 
-<p>https://ooo.qgyc.ooo</p>
-<p>（大陆地区可正常访问）</p>
+<li>https://ooo.qgyc.ooo</li>
+<li>（大陆地区可正常访问）</li>
 ------------------------------
-<p>https://qiguangyicai.com</p>
-<p>（大陆地区可正常访问）</p>
+<li>https://qiguangyicai.com</li>
+<li>（大陆地区可正常访问）</li>
 ------------------------------
-<p>https://qgyc.vip</p>
-<p>（被墙）</p>
+<li>https://qgyc.vip</li>
+<li>（被墙）</p>
